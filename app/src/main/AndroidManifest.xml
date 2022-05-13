@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.imageprocessingapp">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ImageProcessingApp">
+        <activity
+            android:name=".Sharpen"
+            android:exported="false" />
+        <activity
+            android:name=".Watermarking"
+            android:exported="false" />
+        <activity
+            android:name=".ASCIIArt"
+            android:exported="false" />
+        <activity
+            android:name=".Brightness"
+            android:exported="false" />
+        <activity
+            android:name=".Contrast"
+            android:exported="false" />
+        <activity
+            android:name=".Thresholding"
+            android:exported="false" />
+        <activity
+            android:name=".ColourMap"
+            android:exported="false" />
+        <activity
+            android:name=".Emboss"
+            android:exported="false" />
+        <activity
+            android:name=".CannyEdgeDetector"
+            android:exported="false" />
+        <activity
+            android:name=".DifferenceOfGaussians"
+            android:exported="false" />
+        <activity
+            android:name=".StylizationMethod"
+            android:exported="false" />
+        <activity
+            android:name=".PencilSketchMethod"
+            android:exported="false" />
+        <activity
+            android:name=".CartoonEffectPipeline"
+            android:exported="false" />
+        <activity
+            android:name=".PencilSketchPipeline"
+            android:exported="false" />
+        <activity
+            android:name=".HSV"
+            android:exported="false" />
+        <activity
+            android:name=".OldPhotographPipeline"
+            android:exported="false" />
+        <activity
+            android:name=".YCbCr"
+            android:exported="false" />
+        <activity
+            android:name=".MotionBlurFilter"
+            android:exported="false" />
+        <activity
+            android:name=".AddSaltAndPepperNoise"
+            android:exported="false" />
+        <activity
+            android:name=".AddGaussianNoise"
+            android:exported="false" />
+        <activity
+            android:name=".UnsharpMasking"
+            android:exported="false" />
+        <activity
+            android:name=".BilateralFilter"
+            android:exported="false" />
+        <activity
+            android:name=".BoxBlur"
+            android:exported="false" />
+        <activity
+            android:name=".GaussianBlur"
+            android:exported="false" />
+        <activity
+            android:name=".MedianBlur"
+            android:exported="false" />
+        <activity
+            android:name=".CLAHE_"
+            android:exported="false" />
+        <activity
+            android:name=".HistogramEqualization"
+            android:exported="false" />
+        <activity
+            android:name=".Laplacian"
+            android:exported="false" />
+        <activity
+            android:name=".EdgeDetectionRoberts"
+            android:exported="false" />
+        <activity
+            android:name=".EdgeDetectionSobel"
+            android:exported="false" />
+        <activity
+            android:name=".EdgeDetectionPrewitt"
+            android:exported="false" />
+        <activity
+            android:name=".MagnitudeAndAngle"
+            android:exported="false" />
+        <activity
+            android:name=".NegativeGrayscale"
+            android:exported="false" />
+        <activity
+            android:name=".NegativeRGB"
+            android:exported="false" />
+        <activity
+            android:name=".RGB2GRAY"
+            android:exported="false" />
+        <activity
+            android:name=".Effects"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/splashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.android.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_add_gaussian_noise.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_add_salt_and_pepper_noise.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_asciiart.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_bilateral_filter.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_box_blur.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_brightness.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_canny_edge_detector.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_cartoon_effect_pipeline.xml" value="0.12233549582947173" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_clahe.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_colour_map.xml" value="0.12" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_contrast.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_difference_of_gaussians.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_edge_detection_laplacian.xml" value="0.16802052159042324" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_edge_detection_magnitudeand_angle.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_edge_detection_prewitt.xml" value="0.13296280461735785" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_edge_detection_roberts.xml" value="0.13296280461735785" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_edge_detection_sobel.xml" value="0.13039760581445062" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_effects.xml" value="0.1890625" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_emboss.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_gaussian_blur.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_histogram_equalization.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_hsv.xml" value="0.22" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_image_negative_grayscale.xml" value="0.1890625" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_image_negative_rgb.xml" value="0.1890625" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_laplacian.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_magnitude_and_angle.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_motion_blur_filter.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_negative_rgb.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_old_photograph_pipeline.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_pencil_sketch_method.xml" value="0.1" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_pencil_sketch_pipeline.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_rgb2_gray.xml" value="0.22" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_sharpen.xml" value="0.1115861479264643" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_smoothing_blur_average_filter_average_mean_box.xml" value="0.1466438648995297" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_smoothing_blur_average_filter_bilateral_filter.xml" value="0.1466438648995297" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_smoothing_blur_average_filter_gaussian.xml" value="0.1466438648995297" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_smoothing_blur_average_filter_median.xml" value="0.14407866609662248" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_stylization_method.xml" value="0.1" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_thresholding.xml" value="0.15049166310389056" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_unsharp_masking.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_watermarking.xml" value="0.16802052159042324" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/activity_ycb_cr.xml" value="0.16589278176445757" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/layout/recyclerview_row.xml" value="0.22" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
+        <entry key="..\:/Users/Lambda/AndroidStudioProjects/ImageProcessingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.118" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
