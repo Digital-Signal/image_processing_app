@@ -2,6 +2,45 @@
 
 Requires OpenCV
 
+## Effects
+
+1.  RGB to Grayscale
+2.  Negative (RGB)
+3.  Negative (Grayscale)
+4.  Magnitude and Angle
+5.  Edge Detection - Prewitt
+6.  Edge Detection - Sobel
+7.  Edge Detection - Roberts
+8.  Laplacian
+9.  Histogram Equalization
+10. CLAHE
+11. Median Blur
+12. Gaussian Blur
+13. Box Blur
+14. Bilateral Filter
+15. Unsharp Masking
+16. Add Gaussian Noise
+17. Add Salt-And-Pepper Noise
+18. Motion Blur Filter
+19. YCbCr
+20. HSV
+21. Thresholding
+22. Contrast
+23. Brightness
+24. ASCII Art
+25. Watermarking 
+26. Pencil Sketch (Pipeline)
+27. Cartoon Effect (Pipeline)
+28. Pencil Sketch (Method)
+29. Stylization (Method)
+30. Difference of Gaussians
+31. Canny Edge Detector
+32. Emboss
+33. Colour Map (10)
+34. Old Photograph (Pipeline)
+35. Sharpen
+
+## Examples
 
 Start Menu
 
